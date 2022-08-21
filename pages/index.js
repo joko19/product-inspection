@@ -946,12 +946,12 @@ export default function Home() {
                   <div className="carousel-item">
                     <h4>Say Goodbye to Paper Based Inspections</h4>
                     <p>
-                      "Paper inspection forms are often compiled over time and
+                      Paper inspection forms are often compiled over time and
                       without a logical sequence. Inspxt mobile app allows our
                       in-house inspectors to follow a sequence and ensures all
                       answers are completely answered which ensure a higher level of
                       detail and accuracy that pen and paper inspections cannot
-                      accomplish."
+                      accomplish.
                       <br />
                       <br />
                       <span>Richard Wilson, V.P. of Global Supply Chain</span>
