@@ -36,9 +36,12 @@ export default function Navbar() {
                             </Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="buyer-list.html">
-                                Buyers <span className="sr-only">(current)</span>
-                            </a>
+                            <Link href="/buyers">
+                                <a className="nav-link">
+                                    Buyers <span className="sr-only">(current)</span>
+                                </a>
+                            </Link>
+
                         </li>
                         <li className="dropdown menu-large nav-item">
                             {" "}

@@ -1,3 +1,5 @@
+import Link from "next/link"
+
 export default function Footer() {
     return (
         <footer>
@@ -68,16 +70,24 @@ export default function Footer() {
                             <h2>Company</h2>
                             <ul className="list">
                                 <li>
-                                    <a href="about.html">About Inspxt</a>
+                                    <Link href="/about">
+                                        <a>About Inspxt</a>
+                                    </Link>
                                 </li>
                                 <li>
-                                    <a href="contact.html">Contact</a>
+                                    <Link href="/contact">
+                                        <a>Contact</a>
+                                    </Link>
                                 </li>
                                 <li>
-                                    <a href="terms.html">Terms of service</a>
+                                    <Link href="/terms">
+                                        <a>Terms of service</a>
+                                    </Link>
                                 </li>
                                 <li>
-                                    <a href="privacy.html">Privacy Policy</a>
+                                    <Link href="/privacy">
+                                        <a>Privacy Policy</a>
+                                    </Link>
                                 </li>
                             </ul>
                         </div>
