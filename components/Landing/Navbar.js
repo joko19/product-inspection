@@ -309,14 +309,18 @@ export default function Navbar() {
                             </Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="login.html" target="_blank">
-                                Login
-                            </a>
+                            <Link href="/login">
+                                <a className="nav-link">
+                                    Login
+                                </a>
+                            </Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="register.html" target="_blank">
-                                Signup
-                            </a>
+                            <Link href="/register">
+                                <a className="nav-link">
+                                    Signup
+                                </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>

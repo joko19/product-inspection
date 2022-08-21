@@ -40,7 +40,7 @@ export default function Privacy() {
                   <a href="#links-to-other-sites">Links To Other Sites</a>
                 </h5>
                 <h5>
-                  <a href="#children-privacy">Children's Privacy</a>
+                  <a href="#children-privacy">Childrens Privacy</a>
                 </h5>
                 <h5>
                   <a href="#user-outside-the-united-states">
@@ -305,7 +305,7 @@ export default function Privacy() {
                 sites and strongly advise you to review the privacy policy of every
                 website you visit.
               </p>
-              <h1 id="children-privacy">CHILDREN'S PRIVACY</h1>
+              <h1 id="children-privacy">CHILDRENS PRIVACY</h1>
               <p>
                 We do not knowingly direct our products or services to children. If
                 you use our websites or applications, you represent that you are at
@@ -359,8 +359,8 @@ export default function Privacy() {
               <p>
                 To submit a privacy request, please complete the form listed at the
                 bottom of this page. You can also access and update your information
-                at any time by logging into your user account and going to the 'Edit
-                Profile' page. For more information about your state or country
+                at any time by logging into your user account and going to the Edit
+                Profile page. For more information about your state or country
                 specific privacy notice and rights please click here. Inspxt will not
                 discriminate against individuals who exercise these rights.
               </p>
