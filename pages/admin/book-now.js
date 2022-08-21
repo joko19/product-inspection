@@ -942,7 +942,7 @@ export default function BookNow() {
                                                         >
                                                             The benefits of production monitoring are that it gives
                                                             you a wide look at all the manufacturing processes at work
-                                                            in the factory. It's typically a combination of all three
+                                                            in the factory. Its typically a combination of all three
                                                             types of product inspection
                                                         </p>
                                                     </strong>
