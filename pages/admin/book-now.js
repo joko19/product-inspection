@@ -869,7 +869,7 @@ export default function BookNow() {
                                                             aria-controls="collapseFive5"
                                                         >
                                                             Container Loading Monitoring （CLM）checks if the
-                                                            container's condition for transport and the proper loading
+                                                            containers condition for transport and the proper loading
                                                             of the goods. One to two containers are checked per
                                                             man-day.
                                                         </p>

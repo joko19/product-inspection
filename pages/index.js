@@ -933,11 +933,11 @@ export default function Home() {
                   <div className="carousel-item active">
                     <h4>Ensure Quality Assurance &amp; Compliance</h4>
                     <p>
-                      "Being in Ecommerce business and a growing Amazon seller, we
+                      Being in Ecommerce business and a growing Amazon seller, we
                       have to definitely do a lot more with less. And when you want
-                      to create a business bigger than yourself, you’re going to
+                      to create a business bigger than yourself, you are going to
                       need help. Inspxt ensures product quality throughout our
-                      entire supply chain. And that’s what Inspxt does"
+                      entire supply chain. And thats what Inspxt does
                       <br />
                       <br />
                       <span>Judy and Samuel, Co-founders Faith Fashion</span>
@@ -967,7 +967,7 @@ export default function Home() {
         <div className="get-started">
           <div className="content">
             <h2>Get Quality Control Job Done Fast and Accurate Today</h2>
-            <p>We've got you covered for all your Quality Control needs</p>
+            <p>We have got you covered for all your Quality Control needs</p>
             <a href="#" className="c-btn c-fill-color-btn-blue">
               Get Started
             </a>
