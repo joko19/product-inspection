@@ -1,13 +1,13 @@
 import React from "react";
 import { Helmet } from "react-helmet";
 import Head from 'next/head'
+import Navbar from "../components/Landing/Navbar";
+import Footer from "../components/Landing/Footer";
 
 function LayoutLanding(props) {
     return (
         <>
-
             <Head>
-
                 <meta charset="utf-8" />
                 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
                 <meta name="description" content="Gurdeep singh osahan" />
@@ -35,7 +35,9 @@ function LayoutLanding(props) {
                 <script src="Landing/js/custom.js"></script>
             </Head>
             <div>
+                <Navbar/>
                 {props.children}
+                <Footer/>
             </div>
         </>
     )
